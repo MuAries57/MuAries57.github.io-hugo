@@ -16,7 +16,7 @@ title = "Nature en Lorraine"
     weight = -20
 [[menu.main]]
     url = "paysage"
-    name = "paysage"
+    name = "Paysage"
     weight = -10
 
 [[params.social]]
