@@ -1,0 +1,16 @@
++++
+categories = [""]
+date = "2016-02-13T10:31:55+01:00"
+photo = "photos/blaireau.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Blaireau"
+
++++
+
+=== Dans la foret
+
+Un matin, on passe et on voit un blaireau touché par une voiture dans un endroit assez escarpé. je pense qu'il s'est fait piéger.
+Les deux matins qui ont suivi, un nouveau blaireau écrasé au même endroit mais plus petit ! C'est triste
+
+J'en ai vu un en vie, un soir, en rentrant du boulot à la tombée de la nuit.

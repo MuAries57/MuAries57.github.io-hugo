@@ -1,0 +1,13 @@
++++
+categories = [""]
+date = "2016-02-13T13:51:17+01:00"
+photo = "photos/hirondelle.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Hirondelle"
+
++++
+
+=== Vol d'un soir
+
+Un soir, par la fenêtre, je vois des oiseaux voler bas et nombreux. Après observation intensive, je me rends compte que ce sont 6 hirondelles qui tournoient dans le ciel juste au dessus de la maison. Leur vol et leur forme caractéristique ne laisse aucun doute sur ces oiseaux.

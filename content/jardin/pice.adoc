@@ -1,0 +1,19 @@
++++
+categories = [""]
+date = "2016-02-13T14:05:41+01:00"
+photo = "photos/picepeiche.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Pic épeiche"
+
++++
+
+=== Dans l'arbre
+
+Je suis dehors, et puis j'entends toc toc dans du bois. Je regarde et ne vois rien. Puis je réentends toc toc sur du bois.
+Je finis par trouver d'où ça vient, j'observe attentivement, et je vois un gros oiseau. Après recherche, c'est un pic épeiche.
+Il a passé bien 20 min à faire des trous dans un arbre mort.
+
+=== Dans le jardin
+
+Un matin, nous l'avons vu près du jardin et près de la souche en décomposition en train de fouiller l'herbe à la manière du pic vert. Sans doute, en train de manger des fournmis.

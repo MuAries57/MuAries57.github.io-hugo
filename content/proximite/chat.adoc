@@ -1,0 +1,12 @@
++++
+categories = ["félidé"]
+date = "2016-02-13T10:36:54+01:00"
+photo = "photos/chat.jpg"
+subtitle = ""
+tags = ["félin", "mamifère"]
+title = "Chat sauvage"
+
++++
+
+
+Ce jour là, je fus sacrément surpris, à la sortie de la foret, un chat sauvage, facilement reconnaissable à son pelage et à sa taille. J'avais jamais vu un chat comme ça. Pour le coup, on reconnait bien la démarche du félin dans toute sa splendeur.

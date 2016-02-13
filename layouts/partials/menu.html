@@ -1,0 +1,30 @@
+<nav id="nav">
+  <ul>
+    <li {{if .IsHome }}class="current"{{end}}><a href="{{ "index.html" | relURL }}">Home</a></li>
+    {{ $title := .Title }}
+    <!-- <li>
+      <a href="#">Dropdown</a>
+      <ul>
+        <li><a href="#">Lorem dolor</a></li>
+        <li><a href="#">Magna phasellus</a></li>
+        <li><a href="#">Etiam sed tempus</a></li>
+        <li>
+          <a href="#">Submenu</a>
+          <ul>
+            <li><a href="#">Lorem dolor</a></li>
+            <li><a href="#">Phasellus magna</a></li>
+            <li><a href="#">Magna phasellus</a></li>
+            <li><a href="#">Etiam nisl</a></li>
+            <li><a href="#">Veroeros feugiat</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Veroeros feugiat</a></li>
+      </ul>
+    </li> -->
+    {{ range .Site.Menus.main }}
+    {{ $section := title .URL }}
+    {{ $section := $section | pluralize }}
+    <li {{if eq $title $section }}class="current"{{end}}><a href="{{ .URL | relURL}}">{{.Name}}</a></li>
+    {{end}}
+  </ul>
+</nav>

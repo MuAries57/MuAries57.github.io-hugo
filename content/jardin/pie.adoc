@@ -1,0 +1,15 @@
++++
+categories = [""]
+date = "2016-02-13T14:07:57+01:00"
+photo = "photos/pie.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Pie"
+
++++
+
+Les pies viennent souvent par deux au fond du jardin, vers le pommier et le cerisier. Elles peuvent comme ça repartir très vite vers le bosquet et les arbres de l'autre coté du ruisseau
+
+=== Graines
+
+Depuis que j'ai mis les graines aux oiseaux dans le fond du jardin, les pies n'arrêtent pas de faire le ménage des autres oiseaux en ramassant ce qui tombe.

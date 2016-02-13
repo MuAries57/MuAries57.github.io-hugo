@@ -1,0 +1,17 @@
++++
+categories = [""]
+date = "2016-02-13T14:20:06+01:00"
+photo = "photos/rougegorge.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Rouge-gorge"
+
++++
+
+=== Constatation
+
+On ne le voit pas très souvent. Quasiment le même comportement que le rouge-queue. Je crois qu'il y en a un qui dort dans la haie d'arbustes.
+
+=== Printemps
+
+Ce matin, je l'ai vu sur le tuteur de l'érable. Les oiseaux l'aiment bien celui là. Il observait le jardin. Puis il a fini par partir chez le voisin

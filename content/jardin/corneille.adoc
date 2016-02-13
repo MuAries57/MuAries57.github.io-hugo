@@ -1,0 +1,13 @@
++++
+categories = [""]
+date = "2016-02-13T13:49:11+01:00"
+photo = "photos/corneille.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Corneille"
+
++++
+
+Nous nous sommes rendu compte que dans les arbres au bord du ruisseau, des corneilles ont fait leur nid. Nous avions donc 2 corneilles de temps en temps dans le jardin.
+Au moment des naissances, c'était plutot 4. Ils avaient tendance d'ailleur à chasser les autres oiseaux.
+J'avoue que leur noirceur, quand il fait gris donne un aspect assez lugubre aux choses. Par contre, quand il fait beau, le plumage est plutot noir profond reflet bleuté.

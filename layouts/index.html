@@ -1,0 +1,61 @@
+{{ partial "header.html" . }}
+
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Logo -->
+						<h1><a href="{{ "index.html" | relURL }}" id="logo">{{ .Title }}</a></h1>
+
+					<!-- Nav -->
+						{{ partial "menu.html" . }}
+
+				</div>
+
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(narrower)">
+								<div id="sidebar">
+
+									<!-- Sidebar -->
+
+										<!--{{ partial "sidebar.html" }}-->
+
+								</div>
+							</div>
+							<div class="12u  12u(narrower) important(narrower)">
+								<div id="content">
+
+									<!-- Content -->
+
+										<article>
+											<header>
+												<h2>Introduction</h2>
+												<p>Animaux "sauvages"</p>
+											</header>
+											<span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+
+											<p>Ce site est là pour présenter tous les animaux que je rencontre au cours de mes balades où tout simplement dans mon jardin. Je ne tiens pas compte de ceux rencontrés dans les parcs animaliers.</p>
+
+											<p>Ces animaux restent sauvages, je n'essaie pas de rentrer en contact avec eux, je me pose et je les observe, c'est tout.</p>
+
+											<p>Les photos ne sont pas de moi, mais sont libres de droit en provenance d'internet. Elle représente l'animal au plus près de ce que j'ai pu observer.</p>
+										</article>
+
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+			{{ partial "footer.html" . }}
+
+
+		</div>
+
+{{ partial "script.html" . }}

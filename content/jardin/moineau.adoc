@@ -1,0 +1,13 @@
++++
+categories = [""]
+date = "2016-02-13T14:01:45+01:00"
+photo = "photos/moineau.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Moineau"
+
++++
+
+=== En bande
+
+Un matin, après avoir tondu, je regarde devant la terrasse, et je me rends compte qu'il y avait au moins une vingtaine de petits oiseaux. Que des moineaux. Surement qu'ils nous ont observés et une fois parti, ils ont investi les lieux.

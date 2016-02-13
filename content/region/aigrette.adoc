@@ -1,0 +1,13 @@
++++
+categories = [""]
+date = "2016-02-13T14:23:07+01:00"
+photo = "photos/aigrette.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Aigrette"
+
++++
+
+=== Dans un champ
+
+Les aigrettes, quand j'en apperçois, sont rarement seules. Souvent par deux ou même en groupe. Facilement reconnaissable avec son allure d'échassier et sa couleur toute blanche. Malheureusement, j'en ai vu rarement voler.

@@ -1,0 +1,6 @@
++++
+subtitle = ""
+photo = ""
+tags = ["",""]
+categories = [""]
++++

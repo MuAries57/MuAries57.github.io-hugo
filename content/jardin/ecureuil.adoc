@@ -1,0 +1,15 @@
++++
+categories = [""]
+date = "2016-02-13T13:49:56+01:00"
+photo = "photos/ecureuil.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Ecureuil"
+
++++
+
+Un matin où j'étais toute seule à la maison, j'entends gratté sur la porte d'entrée avec Insistance.
+Je prends quand même peur, mais je decide d'aller ouvrir la porte pour voir ce qu'il se passe. J'ouvre et qu'est ce que je vois, un écureuil qui passe de long en large devant la porte. Je referme la porte.
+J'entends re-gratter sur la porte, j'ouvre la porte plus violemment, et là, l'écureuil s'en va.
+
+Le midi, j'ai observé la porte d'entrée, on voyait très bien la marque des pattes (un trident)

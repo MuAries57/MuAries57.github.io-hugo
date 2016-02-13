@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:MuAries57/MuAries57.github.io.git
+	branch = master

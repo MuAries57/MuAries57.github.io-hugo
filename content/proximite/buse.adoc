@@ -1,0 +1,13 @@
++++
+categories = ["rapace"]
+date = "2016-02-13T10:35:00+01:00"
+photo = "photos/buse.jpg"
+subtitle = ""
+tags = ["rapace", "oiseau"]
+title = "Buse"
+
++++
+
+=== Prés de la foret
+
+Quand on traverse la foret, à un moment nous avons une clairière sur le bord de la route, et là de temps en temps, une buse est présente au sol et cherche à manger. Par période, on en voit tous les jours.

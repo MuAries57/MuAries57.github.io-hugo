@@ -1,0 +1,33 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "fr-FR"
+title = "Nature en Lorraine"
+
+[[menu.main]]
+    url = "jardin"
+    name = "Jardin"
+    weight = -40
+[[menu.main]]
+    url = "proximite"
+    name = "Proximité"
+    weight = -30
+[[menu.main]]
+    url = "region"
+    name = "Région"
+    weight = -20
+[[menu.main]]
+    url = "paysage"
+    name = "paysage"
+    weight = -10
+
+[[params.social]]
+  icon = "github"
+  link = "https://github.com/MuAries57"
+[[params.social]]
+  icon = "twitter"
+  link = "https://twitter.com/MuAries57"
+[[params.social]]
+  icon = "instagram"
+  link = "https://instagram.com/MuAries"
+[[params.social]]
+  icon = "google"
+  link = "http://tuxmimo.blogspot.com/"

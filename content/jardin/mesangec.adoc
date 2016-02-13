@@ -1,0 +1,15 @@
++++
+categories = [""]
+date = "2016-02-13T13:54:55+01:00"
+photo = "photos/mesangecharbonniere.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Mésange charbonnière"
+
++++
+
+On les voit en même temps que les mésanges à tête bleue mais on en voit beaucoup moins. Elle vole de la même façon. Elles sont reconnaissables à leur tête noire.
+
+=== Avec les graines
+
+Cet hiver, c'est la première année que je mets des graines aux oiseaux. Les premiers oiseaux à s'être approvisionnés, ce sont les mésanges charbonnières. Je soupçonne qu'elles aient un nid dans les arbres en face.

@@ -1,0 +1,19 @@
++++
+categories = [""]
+date = "2016-02-13T13:53:02+01:00"
+photo = "photos/merle.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Merle (et Merlette)"
+
++++
+
+=== Dans le jardin
+
+Quand ces oiseaux sont en vol, je ne les reconnais pas toujours, mais je les trouve souvent au sol, dans le jardin en train de manger des insectes footnote:[Des fourmis car nous avons des fourmillères plein le jardin.]
+
+Ils sont dès fois aussi près du cerisier et du ruisseau.
+
+=== Haie de Laurier
+
+Un couple de merle a élu domicile dans notre haie de Laurier. On les voit assez souvent voler de branche en branche. Ils ont les fourmillères à leurs pieds. Je pense qu'ils sont biens.

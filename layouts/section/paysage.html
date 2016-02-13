@@ -1,0 +1,64 @@
+{{ partial "header.html" . }}
+
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Logo -->
+						<h1><a href="{{ "index.html" | relURL }}" id="logo">{{ .Site.Title }}</a></h1>
+
+					<!-- Nav -->
+						{{ partial "menu.html" . }}
+
+				</div>
+
+			<!-- Main -->
+				<section class="wrapper style1">
+					<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(narrower)">
+								<div id="sidebar">
+
+									<!-- Sidebar -->
+
+                  <!-- <section>
+                    <ul>
+                    {{ range .Data.Pages.ByTitle }}
+                      <li><a href="#{{ .Title }}">{{ .Title }}</a></li>
+                    {{end}}
+                    </ul>
+                  </section> -->
+
+								</div>
+							</div>
+							<div class="12u  12u(narrower) important(narrower)">
+								<div id="content">
+
+									<!-- Content -->
+                  {{ range .Data.Pages.ByTitle}}
+										<article id="{{ .Title }}">
+                      <header>
+												<h2>{{ .Title }}</h2>
+												<p>{{ .Params.subtitle }}</p>
+											</header>
+											<span class="image features"><img src="{{ .Params.photo | relURL}}" alt="{{ .Title }}" /></span>
+                      {{ .Content }}
+											{{ if .Next }}
+												<hr/>
+											{{end}}
+                    </article>
+                  {{end}}
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+			{{ partial "footer.html" . }}
+
+
+		</div>
+
+{{ partial "script.html" . }}

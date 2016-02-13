@@ -1,0 +1,16 @@
++++
+categories = [""]
+date = "2016-02-13T14:04:26+01:00"
+photo = "photos/palombe.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Palombe"
+
++++
+
+Un matin, on se lève, on regarde les arbres au fond du jardin et là on voit deux oiseaux assez gros ressemblant un peu à un pigeon. Après recherche, c'était des palombes.
+Au bout d'une heure, on regarde dans les arbres et là, en fait, il y en avait plus de 10.
+
+J'en avais jamais vu et surtout autant.
+
+Elles sont restées toute la matinée puis on ne les a plus jamais revu.

@@ -1,0 +1,13 @@
++++
+categories = [""]
+date = "2016-02-13T13:48:02+01:00"
+photo = "photos/chardonneretelegant.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Chardonneret élégant"
+
++++
+
+Ça c'est un oiseau particulier, avec tellement de couleur. Rouge brun sur la tete avec une colerette blanche, du jaune sur les plumes des ailes, du brun du gris. Magnifique oiseau.
+
+Nous les avons vu par deux dans le jardin et toujours par deux. En vérifiant, là où ils se sont posés, c'était sur une fourmillère. Donc je pense qu'ils sont friands d'insectes.
