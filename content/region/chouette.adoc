@@ -1,0 +1,13 @@
++++
+categories = ["rapace"]
+date = "2016-02-14T21:29:26+01:00"
+photo = "photos/chouette.jpg"
+subtitle = ""
+tags = ["rapace", "oiseau"]
+title = "Chouette effraie"
+
++++
+
+=== En rentrant de chez un ami
+
+On prend la route pour rentrer chez nous en revenant d'une soirée "Tup", et là, une magnifique chouette effraie traverse la route juste devant notre pare-brise. On l'a bien reconnu grace à sa tête bien blanche facilement reconnaissable. J'ai eu très peur qu'elle s'écrase sur la voiture, mais c'est bon. C'est passé tout prêt !
