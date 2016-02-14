@@ -8,9 +8,9 @@ title = "Blaireau"
 
 +++
 
-=== Dans la foret
+=== Dans la forêt
 
 Un matin, on passe et on voit un blaireau touché par une voiture dans un endroit assez escarpé. je pense qu'il s'est fait piéger.
-Les deux matins qui ont suivi, un nouveau blaireau écrasé au même endroit mais plus petit ! C'est triste
+Les deux matins qui ont suivi, un nouveau blaireau touché par une voiture au même endroit mais plus petit ! C'est triste.
 
-J'en ai vu un en vie, un soir, en rentrant du boulot à la tombée de la nuit.
+J'en ai vu un en vie (heureusement), un soir, en rentrant du travail à la tombée de la nuit.

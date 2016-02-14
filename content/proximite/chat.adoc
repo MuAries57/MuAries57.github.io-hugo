@@ -8,5 +8,6 @@ title = "Chat sauvage"
 
 +++
 
+=== Clairière dans la forêt
 
-Ce jour là, je fus sacrément surpris, à la sortie de la foret, un chat sauvage, facilement reconnaissable à son pelage et à sa taille. J'avais jamais vu un chat comme ça. Pour le coup, on reconnait bien la démarche du félin dans toute sa splendeur.
+Ce jour là, je fus sacrément surprise, à la sortie de la forêt, un chat sauvage, facilement reconnaissable à son pelage et à sa taille. J'avais jamais vu un chat sauvage comme ça. Pour le coup, on reconnait bien la démarche du félin dans toute sa splendeur.
