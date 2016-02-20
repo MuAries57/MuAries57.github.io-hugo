@@ -1,0 +1,13 @@
++++
+categories = [""]
+date = "2016-02-20T11:51:13+01:00"
+photo = "photos/cormoran.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Cormoran"
+
++++
+
+=== Sur la rivière
+
+Un matin, en allant au boulot, le long de la rivière (assez haute ce jour là), un oiseau noir assez atypique pour la région se trouvait sur une branche, en y regardant de plus près, c'était un cormoran. Je pensais pas le voir un jour dans notre région, car pour moi, cette oiseau vit au bord de la mer.

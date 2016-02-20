@@ -1,0 +1,13 @@
++++
+categories = [""]
+date = "2016-02-20T12:02:58+01:00"
+photo = "photos/mouette.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Mouette"
+
++++
+
+=== Au plan d'eau
+
+Cet oiseau pour moi, vit au bord de la mer. Et là, pour le coup, nous en sommes loin. Mais nous voyons quelques mouettes souvent au plan d'eau. Je pense que c'est un oiseau qui fait le ménage, car souvent, nous le voyons "nettoyer" les déchets alimentaires laissés par les promeneurs
