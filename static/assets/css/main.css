@@ -2434,6 +2434,44 @@
 					display: none;
 				}
 
+/* Sidebar */
+
+#sidebar a {
+	-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	color: #37c0fb;
+	text-decoration: none;
+	border-bottom: dotted 1px;
+	font-weight: 600;
+}
+
+#sidebar	a:hover {
+		color: #37c0fb;
+		border-bottom-color: transparent;
+	}
+
+	#top a.icon {
+		/*-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;*/
+		color: #37c0fb;
+		/*text-decoration: none;
+		border-bottom: dotted 1px;
+		font-weight: 600;*/
+		text-align: center;
+		margin: 0;
+	}
+
+	#top	a.icon:hover {
+			color: #37c0fb;
+			/*border-bottom-color: transparent;*/
+		}
+
+
+
 /* Dropotron */
 
 	.dropotron {
