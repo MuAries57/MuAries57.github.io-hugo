@@ -22,10 +22,10 @@
 
 									<!-- Sidebar -->
 
-                  <section>
+                  <section id="sidebar">
                     <ul>
                     {{ range .Data.Pages.ByTitle }}
-                      <li><a href="#{{ .Title }}">{{ .Title }}</a></li>
+											<li><a href="#{{ .Title }}">{{ .Title }}</a></li>
                     {{end}}
                     </ul>
                   </section>
@@ -43,7 +43,7 @@
 												<p>{{ .Params.subtitle }}</p>
 											</header>
 											<span class="image"><img src="{{ .Params.photo | relURL }}" alt="{{ .Title }}" /></span>
-                      {{ .Content }}
+                      {{ .Content }} <center id="top"><a href="#" class="icon fa-arrow-up"></a></center>
 											{{ if .Next }}
 												<hr/>
 											{{end}}
