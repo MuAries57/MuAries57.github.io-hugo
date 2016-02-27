@@ -1,0 +1,11 @@
++++
+categories = [""]
+date = "2016-02-27T11:12:06+01:00"
+photo = "photos/etourneau.jpg"
+subtitle = ""
+tags = ["", ""]
+title = "Etourneau samsonnet"
+
++++
+
+Au soleil, c'est un oiseau assez joli avec un plumage noir profond parsemé de blanc. Il y en avait 3 au sommet d'un arbre à coté d'une pie. Ils sont restés un petit moment tous ensemble puis sont repartis.
