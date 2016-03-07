@@ -5,19 +5,23 @@ title = "Nature en Lorraine"
 [[menu.main]]
     url = "jardin"
     name = "Jardin"
-    weight = -40
+    weight = -50
 [[menu.main]]
     url = "proximite"
     name = "Proximité"
-    weight = -30
+    weight = -40
 [[menu.main]]
     url = "region"
     name = "Région"
-    weight = -20
+    weight = -30
 [[menu.main]]
     url = "paysage"
     name = "Paysage"
-    weight = -10
+    weight = -20
+[[menu.main]]
+        url = "video"
+        name = "Vidéo"
+        weight = -10
 
 [[params.social]]
   icon = "github"
