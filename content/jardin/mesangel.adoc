@@ -1,0 +1,16 @@
++++
+categories = ["oiseau"]
+date = "2016-03-13T17:45:48+01:00"
+photo = "photos/orite.jpg"
+subtitle = ""
+tags = ["oiseau", "mésange"]
+title = "Mésange à longue queue"
+
++++
+
+=== Le long du ruisseau
+
+Un couple de mésange à longue queue n'arrétait pas de virevolter le long du ruisseau. Ce n'est pas un oiseau que j'ai souvent vu, mais là j'ai passé du temps à les observer. Ils sont passés très près de moi, sans crainte. Ils étaient à moins d'un mètre et faisait des ronds autour de moi.
+Leur queue est magnifique, longue et évasée.
+
+J'espère que je les reverrai.
