@@ -1,0 +1,15 @@
++++
+categories = [""]
+date = "2016-03-19T09:47:58+01:00"
+photo = "photos/geaideschenes.png"
+subtitle = ""
+tags = ["oiseau", "geai"]
+title = "Geai Des Chênes"
+
++++
+
+=== Au pied du pommier
+
+Ce matin, ce bel oiseau était dans mon jardin en train de chercher des insectes. Il est resté un bon moment. Nous en avons aperçu un deuxième pas très loin. Comme nous sommes fin mars, je soupçonne que ce soit un couple car nous sommes en période de reproduction pour plein d'oiseaux.
+
+Il faut dire que c'est un oiseau imposant car de bonne taille. Je n'avais jamais vu cet oiseau de si près.
