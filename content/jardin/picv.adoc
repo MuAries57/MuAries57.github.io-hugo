@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T14:06:43+01:00"
 photo = "photos/picvert.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau", "pic"]
 title = "Pic vert"
 
 +++
@@ -25,3 +25,7 @@ Ce soir, je vois un pic-vert décoller du jardin vers les arbres près du ruisse
 === Un matin d'hiver
 
 Ce matin, j'ai ouvert les volets, le pic vert était dans le jardin. Il a entendu le bruit du volet, il s'est envolé dans le cerisier. Il a passé 10 minutes à picorer le tronc. Puis s'est envolé au sol pour manger les fourmis.
+
+=== Au retour du printemps
+
+Nous l'avons pas vu de presque tout l'hiver 2015, j'en venais à me demander s'il avait pas migrer quelques parts, et ce matin (20/03/2016), j'ai aperçu le pic vert sur un tronc d'arbre. Ce même jour, je l'ai vu chercher des fourmis dans une fourmillère dans le jardin. Plein de mésanges lui volaient autour mais cela ne semblait pas l'inquiéter.

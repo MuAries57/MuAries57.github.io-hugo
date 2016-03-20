@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T12:53:05+01:00"
 photo = "photos/bergeronnettegrise.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau","occasionnel"]
 title = "Bergeronnette grise"
 
 +++

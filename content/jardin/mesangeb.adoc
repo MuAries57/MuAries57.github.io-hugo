@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T14:00:35+01:00"
 photo = "photos/mesangebleue.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau", "mésange","courant"]
 title = "Mésange à tête bleue"
 
 +++

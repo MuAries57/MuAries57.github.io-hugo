@@ -3,7 +3,7 @@ categories = ["oiseau"]
 date = "2016-03-13T17:45:48+01:00"
 photo = "photos/orite.jpg"
 subtitle = ""
-tags = ["oiseau", "mésange"]
+tags = ["oiseau", "mésange","occasionnel"]
 title = "Mésange à longue queue"
 
 +++

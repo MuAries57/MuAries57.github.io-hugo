@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T14:20:06+01:00"
 photo = "photos/rougegorge.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau", "courant"]
 title = "Rouge-gorge"
 
 +++

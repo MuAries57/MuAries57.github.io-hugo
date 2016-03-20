@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T14:05:41+01:00"
 photo = "photos/picepeiche.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau", "pic","occasionnel"]
 title = "Pic épeiche"
 
 +++

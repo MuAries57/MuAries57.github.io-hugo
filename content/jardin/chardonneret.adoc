@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T13:48:02+01:00"
 photo = "photos/chardonneretelegant.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau","occasionnel"]
 title = "Chardonneret élégant"
 
 +++

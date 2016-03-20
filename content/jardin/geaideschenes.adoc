@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-03-19T09:47:58+01:00"
 photo = "photos/geaideschenes.png"
 subtitle = ""
-tags = ["oiseau", "geai"]
+tags = ["oiseau", "geai","occasionnel"]
 title = "Geai Des Chênes"
 
 +++

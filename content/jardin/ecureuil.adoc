@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["mamifère"]
 date = "2016-02-13T13:49:56+01:00"
 photo = "photos/ecureuil.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["mamifère", "occasionnel"]
 title = "Ecureuil"
 
 +++

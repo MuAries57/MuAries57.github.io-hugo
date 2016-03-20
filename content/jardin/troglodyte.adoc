@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T14:21:17+01:00"
 photo = "photos/troglodytemignon.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau", "courant"]
 title = "Troglodyte mignon"
 
 +++

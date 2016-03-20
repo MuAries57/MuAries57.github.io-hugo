@@ -1,13 +1,13 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-27T11:11:52+01:00"
 photo = "photos/grivelitorne.png"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau","occasionnel"]
 title = "Grive litorne"
 
 +++
 
 === En bande
 
-un samedi matin, dans les arbres au fond du jardin, 8 oiseaux semblables.  Il a fallu un moment pour savoir quel genre d'oiseau c'était. De taille conséquente. Puis après recherche, c'était des grives litornes. Nous sommes restés un moment à les regarder en train de se déplacer d'arbre en arbre pour se rassembler. 
+un samedi matin, dans les arbres au fond du jardin, 8 oiseaux semblables.  Il a fallu un moment pour savoir quel genre d'oiseau c'était. De taille conséquente. Puis après recherche, c'était des grives litornes. Nous sommes restés un moment à les regarder en train de se déplacer d'arbre en arbre pour se rassembler.
