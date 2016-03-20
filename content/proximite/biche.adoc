@@ -3,8 +3,8 @@ date = "2016-02-13T10:03:59+01:00"
 subtitle = ""
 title = "Biche"
 photo = "photos/biche.jpg"
-tags = ["cervidé"]
-categories = ["jardin"]
+tags = ["cervidé","mammifère"]
+categories = ["mammifère"]
 +++
 
 === Seule un matin

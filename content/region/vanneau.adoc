@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T14:25:35+01:00"
 photo = "photos/vanneauhuppe.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau", "migrateur"]
 title = "Vanneau huppé"
 
 +++

@@ -1,5 +1,5 @@
 +++
-categories = ["rapace"]
+categories = ["oiseau"]
 date = "2016-02-14T21:29:26+01:00"
 photo = "photos/chouette.jpg"
 subtitle = ""

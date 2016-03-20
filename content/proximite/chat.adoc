@@ -1,9 +1,9 @@
 +++
-categories = ["félidé"]
+categories = ["mammifère"]
 date = "2016-02-13T10:36:54+01:00"
 photo = "photos/chat.jpg"
 subtitle = ""
-tags = ["félin", "mamifère"]
+tags = ["félidé", "mammifère"]
 title = "Chat sauvage"
 
 +++

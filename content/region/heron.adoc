@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["oiseau"]
 date = "2016-02-13T14:24:22+01:00"
 photo = "photos/heroncendre.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["oiseau", "grue"]
 title = "Héron cendré"
 
 +++

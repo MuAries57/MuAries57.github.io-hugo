@@ -1,9 +1,9 @@
 +++
-categories = [""]
+categories = ["mammifère"]
 date = "2016-02-13T10:31:55+01:00"
 photo = "photos/blaireau.jpg"
 subtitle = ""
-tags = ["", ""]
+tags = ["mammifère"]
 title = "Blaireau"
 
 +++
