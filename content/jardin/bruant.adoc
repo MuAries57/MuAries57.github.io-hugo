@@ -1,0 +1,16 @@
++++
+categories = ["oiseau"]
+date = "2016-03-25T18:47:04+01:00"
+photo = "photos/bruantjaune.jpg"
+subtitle = ""
+tags = ["oiseau", "jaune"]
+title = "Bruant jaune"
+
++++
+
+=== Dans le cerisier
+
+Je regardais les mésanges dehors qui se batait devant la mangeoire à graines, quand tout à coup, un oiseau tout jaune se pose dans l'arbre. Un peu plus gros que les mésanges, dans un arbre sans feuille et tout jaune, il faut dire qu'on ne voyait que lui.
+Ensuite, il s'est envoyé puis poser devant le pommier, pour manger les graines que les mésanges faisaient tomber. Il est resté un bon moment. Dans l'herbe verte, on le voyait bien.
+
+pour information : Cette photo est de nous.
