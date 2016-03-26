@@ -1,0 +1,11 @@
++++
+categories = ["oiseau"]
+date = "2016-03-26T13:46:05+01:00"
+photo = "photos/pinson.jpg"
+subtitle = ""
+tags = ["oiseau"]
+title = "Pinson des arbres"
+
++++
+
+Ce n'est pas moi que l'est vu, mais Sam. Il l'a pris en photo, celui ci était dans un arbre, puis s'est envolé.

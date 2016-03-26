@@ -1,0 +1,11 @@
++++
+categories = ["mammifère"]
+date = "2016-03-26T13:47:29+01:00"
+photo = "photos/herisson.jpg"
+subtitle = ""
+tags = ["mammifère", "insectivore"]
+title = "Hérisson"
+
++++
+
+C'est l'appareil photo mis dans le jardin de nuit qui a révélé sa présence. On le voit en train de tourner entre le pommier et l'appareil photo en train de farfouiller le sol. Il est resté un long moment puis est reparti vers le ruisseau.
