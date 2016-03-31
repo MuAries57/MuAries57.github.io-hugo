@@ -1,0 +1,15 @@
++++
+categories = ["oiseau"]
+date = "2016-03-29T18:39:56+02:00"
+photo = "photos/grivemu.jpg"
+subtitle = ""
+tags = ["oiseau", "grive","occasionnel"]
+title = "Grive musicienne"
+
++++
+
+=== Le long de la haie
+
+En début d'après midi, un oiseau de la taille d'un gros merle, déambule le long de la haie. Il picore le sol. Il est resté là une bonne vingtaine de minutes. La haie donnant juste en face des fenêtres, nous avons pu l'observer en toute tranquilité.
+
+_La photo est de nous :)_
