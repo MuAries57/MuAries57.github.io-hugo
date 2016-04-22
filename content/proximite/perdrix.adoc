@@ -1,0 +1,13 @@
++++
+categories = ["oiseau"]
+date = "2016-04-19T19:30:44+02:00"
+photo = "photos/perdrix.jpg"
+subtitle = ""
+tags = ["oiseau", "bande","occasionnel"]
+title = "Perdrix"
+
++++
+
+=== A la sortie du village
+
+On sort de notre village, et dans un champ, une dizaine de perdrix qui attendait le long de la route. Je ne les ai jamais revu.

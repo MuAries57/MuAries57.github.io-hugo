@@ -1,0 +1,13 @@
++++
+categories = ["oiseau"]
+date = "2016-04-19T19:29:51+02:00"
+photo = "photos/moineauf.jpg"
+subtitle = ""
+tags = ["moineau", "oiseau"]
+title = "Moineau friquet"
+
++++
+
+=== Dans le jardin
+
+Il faut dire qu'on a mis du temps à le repérer celui là car il ressemble quand même au moineau domestique. Nous en avons vu qu'un seul. Il vient lui aussi chercher des graines dans la mangeoire et vient de fois au sol ramasser ce que les moineaux domestiques font tomber.

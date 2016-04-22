@@ -1,0 +1,13 @@
++++
+categories = ["oiseau"]
+date = "2016-04-19T19:30:27+02:00"
+photo = "photos/faisan.jpg"
+subtitle = ""
+tags = ["oiseau"]
+title = "Faisan"
+
++++
+
+=== Dans un champ
+
+En rentrant un soir, il était sur le bord de la route, à l'entrée d'un village voisin. Quel magnifique oiseau.
