@@ -1,0 +1,15 @@
++++
+categories = ["oiseau"]
+date = "2016-05-07T08:43:16+02:00"
+photo = "photos/verdier.jpg"
+subtitle = ""
+tags = ["verdier", "oiseaux","vert","occasionnel"]
+title = "Verdier"
+
++++
+
+=== Dans le jardin
+
+En meute, 4 ou 5 verdiers en train de manger les graines et bourgeons laissés après la tonte de la pelouse. On en voit quand même que rarement.
+
+_la photo est de moi :)_
