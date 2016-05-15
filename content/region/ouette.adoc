@@ -1,0 +1,15 @@
++++
+categories = ["oiseau"]
+date = "2016-05-15T19:42:45+02:00"
+photo = "photos/ouette.jpg"
+subtitle = ""
+tags = ["oiseau", "canard"]
+title = "Ouette d'Egypte"
+
++++
+
+=== A Metz
+
+Sur la moselle, on voit deux gros canards sur un barage de la rivière. Je suis restée  longtemps à les observer. Je les trouvais gros pour des canards et d'une couleur assez atipique. Après une longue recherche, j'ai trouvé ce que c'était, des ouettes d'Egyptes. Visiblement, l'espèce à été introduite en Allemagne, Hollande et Angleterre. Visiblement, elle commence à descendre.
+
+C'est vraiment plus gros qu'un canard et assez particulier au niveau couleur.
