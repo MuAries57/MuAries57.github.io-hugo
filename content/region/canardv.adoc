@@ -1,0 +1,14 @@
++++
+categories = ["oiseau"]
+date = "2016-05-28T13:46:18+02:00"
+photo = "photos/canardv.jpg"
+subtitle = ""
+tags = ["canard", "oiseau"]
+title = "Canard colvert"
+
++++
+
+=== Dans la Moselle
+
+A Metz, sur les bras de Moselle ou sur le plan d'eau, des familles de colvert sont présents. Comme sur beaucoup de plan d'eau en France.
+Ce n'est pas un animal agressif, il se laisse nourrir par les gens qui passent.
