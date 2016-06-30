@@ -1,7 +1,7 @@
 +++
 categories = ["oiseau"]
 date = "2016-06-26T13:43:41+02:00"
-photo = "photos/fauvettej.adoc"
+photo = "photos/fauvettej.jpg"
 subtitle = ""
 tags = ["oiseau", "fauvette"]
 title = "Fauvette des jardins"
