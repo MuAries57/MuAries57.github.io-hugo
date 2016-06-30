@@ -1,0 +1,11 @@
++++
+categories = ["oiseau"]
+date = "2016-06-26T13:43:41+02:00"
+photo = "photos/fauvettej.adoc"
+subtitle = ""
+tags = ["oiseau", "fauvette"]
+title = "Fauvette des jardins"
+
++++
+
+C'est un oiseau tout petit. Les moineaux n'arrêtent pas de la chasser dès qu'elle essaye de se nourrir. Elle va souvent dans la clématite en fleurs et cherche des graines au sol.

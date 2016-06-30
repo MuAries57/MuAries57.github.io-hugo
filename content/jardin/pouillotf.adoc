@@ -1,0 +1,11 @@
++++
+categories = ["oiseau"]
+date = "2016-06-26T13:38:31+02:00"
+photo = "photos/pouillotf.jpg"
+subtitle = ""
+tags = ["oiseau", "pouillot"]
+title = "Pouillot fitis"
+
++++
+
+Celui qu'on a vu, c'est un jeune par contre, il était tout seul. Je n'ai jamais vu ces parents. En tout cas, il a l'air de se débrouiller. Il niche dans les arbres derrière la haie de laurier d'ornement.

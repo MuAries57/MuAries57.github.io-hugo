@@ -1,0 +1,13 @@
++++
+categories = ["oiseau"]
+date = "2016-06-25T17:27:02+02:00"
+photo = "photos/fauvettem.jpg"
+subtitle = ""
+tags = ["Fauvette", "Oiseau"]
+title = "Fauvette mélanocéphale"
+
++++
+
+=== Prés de la fenêtre
+
+Visiblement il niche dans la haie qui fait coin avec la maison, donc il est tout prés de nous. Nous l'avons aperçu un jour de pluie, sur une branche, il attendait
