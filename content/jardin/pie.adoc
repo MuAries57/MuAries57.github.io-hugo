@@ -8,6 +8,8 @@ title = "Pie"
 
 +++
 
+=== Généralités
+
 Les pies viennent souvent par deux au fond du jardin, vers le pommier et le cerisier. Elles peuvent comme ça repartir très vite vers le bosquet et les arbres de l'autre coté du ruisseau
 
 === Graines

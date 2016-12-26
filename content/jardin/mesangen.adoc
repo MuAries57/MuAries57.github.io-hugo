@@ -5,7 +5,6 @@ photo = "photos/mesangen.jpg"
 subtitle = ""
 tags = ["oiseau", "mésange","occasionnel"]
 title = "Mésange nonnette"
-
 +++
 
 === Dans le distributeur de graines
@@ -17,4 +16,4 @@ Les mésanges nonettes sont revenues dans la mangeoire à oiseau, elles se rappr
 
 === Dans la haie
 
- Ce matin en me levant, j'ai ouvert les volets. J'avais mis deux ramequins de graines pour les oiseaux dehors sur la terrasse près de la haie. En regardant la haie vers l'un des ramequins,  j'ai aperçu 2 mésanges nonettes. Ce n'est pas souvent qu'on les aperçoit. 
+Ce matin en me levant, j'ai ouvert les volets. J'avais mis deux ramequins de graines pour les oiseaux dehors sur la terrasse près de la haie. En regardant la haie vers l'un des ramequins,  j'ai aperçu 2 mésanges nonettes. Ce n'est pas souvent qu'on les aperçoit.
