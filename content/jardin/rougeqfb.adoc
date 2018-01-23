@@ -1,0 +1,17 @@
++++
+categories = ["oiseau"]
+date = "2017-04-16T14:53:25+02:00"
+photo = "photos/rougequeueblanc.jpg"
+subtitle = ""
+tags = ["oiseau","rare"]
+title = "rouge queue à front blanc"
+
++++
+
+=== sur les arbres
+
+Nous l'avons vu voler sur l'érable, puis sur le pommier puis sur le cerisier de branche en branche. Mais il semblait chasser par d'autres oiseaux.
+
+=== au sommet des arbres
+
+Nous l'avons aperçu également au sommet des grands arbres, sacré poste d'observation dominant tous les champs aux alentours
