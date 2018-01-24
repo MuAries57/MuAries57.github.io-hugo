@@ -4,7 +4,7 @@ date = "2017-04-16T14:53:25+02:00"
 photo = "photos/rougequeueblanc.jpg"
 subtitle = ""
 tags = ["oiseau","rare"]
-title = "rouge queue à front blanc"
+title = "Rouge-queue à front blanc"
 
 +++
 
