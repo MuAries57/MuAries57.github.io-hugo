@@ -1,0 +1,13 @@
++++
+categories = ["oiseau"]
+date = "2016-04-19T19:30:27+02:00"
+photo = "photos/bouvreuil.jpg"
+subtitle = ""
+tags = ["oiseau"]
+title = "Bouvreuil pivoine"
++++
+
+=== A coté du champ de tir
+
+Mon oeil a été atiré par cet oiseau. Il avait un champ particulier, doux et mélancolique. Avec les jumelles, je l'ai observé, et je m'aperçois qu'il est presque tout rouge. Mais quel oiseau magnifique.
+Il a chanté un moment puis il est parti dans un buisson ou je l'ai perdu de vu.
