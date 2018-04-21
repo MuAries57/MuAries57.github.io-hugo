@@ -1,0 +1,15 @@
++++
+categories = ["oiseau"]
+date = "2016-02-13T13:48:02+01:00"
+photo = "photos/colombe.jpg"
+subtitle = ""
+tags = ["oiseau","occasionnel"]
+title = "Colombe"
+
++++
+
+=== Sur le toit
+
+En revenant d'une balade dans le village, je vois un oiseau blanc ressemblant à un gros pigeon. Ce qui me frappe c'est qu'il est vraiment tout blanc.
+Elle est restée là un bon moment, j'ai eu le temps de rentrer dans la maison, de ressortir avec l'appareil photo, de la prendre et de l'observer. J'avais l'impression qu'elle me regardait, mais en tout cas, elle ne s'est pas envolé.
+Sur la photo, j'ai pu voir qu'elle avait une bague autour de la patte, elle s'est donc soit échappée, soit perdue.
