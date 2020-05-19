@@ -1,6 +1,7 @@
 baseurl = "https://MuAries57.github.io/"
 languageCode = "fr-FR"
 title = "Nature en Lorraine"
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [[menu.main]]
     url = "jardin"
