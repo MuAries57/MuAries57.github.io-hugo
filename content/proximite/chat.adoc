@@ -4,10 +4,15 @@ date = "2016-02-13T10:36:54+01:00"
 photo = "photos/chat.jpg"
 subtitle = ""
 tags = ["félidé", "mammifère"]
-title = "Chat sauvage"
+title = "Chat forestier"
 
 +++
 
 === Clairière dans la forêt
 
 Ce jour là, je fus sacrément surprise, à la sortie de la forêt, un chat sauvage, facilement reconnaissable à son pelage et à sa taille. J'avais jamais vu un chat sauvage comme ça. Pour le coup, on reconnait bien la démarche du félin dans toute sa splendeur.
+
+
+=== Tombée de la nuit
+
+Nous sommes rentrés un soir au mois de mars, et nous avons revus ce chat forestier, et puis en tournant la tête, en fait, ils étaient 2. Un couple, un male et une femelle. C'est une espèce menacée, je trouve de bon présage de pouvoir voir un couple de chats dans la nature.
